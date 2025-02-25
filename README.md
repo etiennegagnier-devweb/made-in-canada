@@ -1,6 +1,6 @@
 # Privacy Policy for Canadian Product Scanner
 
-Last updated: [Date]
+Last updated: 2025-02-24
 
 ## Camera Permission
 The app requires camera access solely for scanning product barcodes. We do not store, transmit, or share any images or video captured by the camera.
@@ -19,4 +19,4 @@ The app requires camera access solely for scanning product barcodes. We do not s
 Data is stored securely on Supabase servers. We do not sell or share personal information with third parties.
 
 ## Contact
-For privacy concerns, contact: [Your Email]
+For privacy concerns, contact: devweb@etiennegagnier.ca
